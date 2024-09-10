@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
-<h1 align="center">Hi 👋, I'm sorceryspecter</h1>
-<h3 align="center">I'm currently learning TypeScript.
+<h1 align="center">Hi 👋, I'm Shah Bano</h1>
+<h3 align="center">I'm currently learning python and next.js.
     <p>Passionate about technology and eager to learn more about software development.
       Although I'm not a developer yet, but on my way to becoming one!</p>
 </h3>
